@@ -16,12 +16,12 @@ body{
 }
 
 .section.food.first{
-    background: url('/img/foodbg.png') 50% 50%;
+    background: url('//i.imgur.com/fpTIAZ4.png') 50% 50%;
     background-size:cover;
 }
 
 .section.food.second{
-    background: url('/img/darkwood.png') repeat-y;
+    background: url('//i.imgur.com/sMlWqZU.png') repeat-y;
     background-size: contain;
 }
 
