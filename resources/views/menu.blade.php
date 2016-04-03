@@ -81,8 +81,6 @@
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="section food third">
             <div class="row">
                 <div class="medium-6 columns">
                     <div class="row">

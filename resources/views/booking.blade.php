@@ -5,10 +5,10 @@
     <div id="fullpage">
         <div class="section home">
             <div class="row booking">
-                <div class="medium-9 columns text-left">
+                <div class="medium-7 large-8 columns text-left">
                     <h1>Book a Cruise</h1>
                 </div>
-                <div class="medium-3 columns">
+                <div class="medium-5 large-4 columns">
                     <div class="bookingBox">
                         <div class="row columns">
                             <label>Destination
