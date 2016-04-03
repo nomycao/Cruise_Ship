@@ -19,6 +19,21 @@ Route::get('/menu', function(){
     return view('menu');
 });
 
+
+Route::get('/booking', function(){
+    return view('booking');
+});
+
+
+Route::get('/otn', function(){
+    return view('otn');
+});
+
+
+Route::get('/service', function(){
+    return view('service');
+});
+
 /*
 |--------------------------------------------------------------------------
 | Application Routes
