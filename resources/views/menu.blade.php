@@ -32,12 +32,10 @@
         <div class="row" data-equalizer>
             <div class="medium-6 columns" id="eq2">
                 <div class="menu-textbox"  data-equalizer-watch>
-                    <h3>Wild Freshwater Catfish</h3>
-                    <p>They might fulfill your daily minimum omega-3 requirement, but catfish are
-                        not that clean. Because catfish are bottom feeders who swim in shallow, muddy
-                        river water, they are typically exposed to toxins like man-made polychlorinated
-                        biphenyls (PCBs) that have been found to influence cognitive deficiencies
-                        in exposed infants as well as affect hormone metabolism in adult</p>
+                    <h3>Oven Baked Brown Bullhead Catfish</h3>
+                    <p>More commonly known as catfish, mud cat and mud pout, the Brown Bullhead is found ranging from Atlantic Canada through to Manitoba. Often described as more tender and flavourful than many other types of catfish, the Brown Bullhead unfortunately suffers some discrimination due to its unfortunate name. It is however, a treat that must be tried.
+                        <br><br>
+                        Grilled Brown Bullhead baked in a black bean and avocado relish, served on a bed of butter roasted baby spinach with bellcap mushrooms.</p>
                     <h2>$16</h2>
                 </div>
             </div>
@@ -62,13 +60,10 @@
         <div class="row" data-equalizer>
             <div class="medium-6 columns" id="eq4">
                 <div class="menu-textbox" data-equalizer-watch>
-                    <h3>Wild Atlantic Cod</h3>
-                    <p>While you won’t be boosting immunity with this fish, research does suggest a regular
-                        serving of Atlantic cod may help you stay trim. An eight-week study of 120 men published
-                        in Nutrition, Metabolism & Cardiovascular Diseases found that when combined
-                        with a calorie-restricted diet, participants who consumed cod I've times a week lost more
-                        weight and visceral fat and showed better improvements in their blood pressure than
-                        those who ate cod just one or three times per wee</p>
+                    <h3>Lemon and Herb Baked Cod</h3>
+                    <p>Cod is the common name for the genus Gadus of demersal fishes, the two most important species being the Atlantic and Pacific cod. Atlantic cod grows to maturity in the deep, cold waters of the North Atlantic. Highly sought after for its mild flavour and dense, flaky white flesh, it is one of the best known fish in the world. Commonly used for the ubiquitous fish and chips, cod is also perfect for those with a more refined palate.
+                        <br><br>
+                        Fresh Atlantic cod steak served on a bed of Jasmine rice, with steamed broccoli and baby carrrots</p>
                     <h2>$20</h2>
                 </div>
             </div>

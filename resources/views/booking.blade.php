@@ -83,6 +83,6 @@
                     </div>
                 </div>
             </div>
-        @include('bottombar')
+    @include('bottombar')
     </div>
 @endsection

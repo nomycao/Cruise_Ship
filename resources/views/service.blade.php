@@ -1,11 +1,7 @@
 @extends('skeleton')
-@section('title', 'Home')
+@section('title', 'Service')
 
 @section('body')
-        <div id="map"></div>
-@endsection
-
-@section('body-scripts')
 <div class="section map">
     <div class="vcenter-container">
         <div class="text-center">
