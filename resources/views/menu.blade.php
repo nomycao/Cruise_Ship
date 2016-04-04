@@ -21,14 +21,11 @@
             </div>
             <div class="medium-6 columns">
                 <div class="menu-textbox" data-equalizer-watch>
-                    <h3>Farmed Atlantic Salmon</h3>
-                    <p>Those high levels of omega-3s come with a cost: Soy-fed, farm-raised salmon
-                        (99 percent of Atlantic salmon is now farm-raised due to overfishing and pollution)
-                        is also packed with around 1,900 mg omega-6s, which actually increase
-                        the inflammation omega-3s combat. Also: Farmed salmon are usually dyed
-                        pink, have been found to be high in PCBs, and have only one-fourth the belly-
-                        flattening vitamin D of their wild cousins.</p>
-                    <h2>$42.70</h2>
+                    <h3>Slow Roasted Atlantic Salmon</h3>
+                    <p>The Atlantic salmon is a species unto itself (Salmo salar). Found in the cold waters of the North Atlantic, they migrate to an area near the coast of Greenland, and after hanging out for a year or more, return home to the rivers of their origin. Rich in beneficial Omega 3 fatty acids, and set apart by its delicate, pink flesh, Atlantic salmon is a treat for both your body and your senses.
+
+                        <br><br>Salmon filet served on a drizzle of creamy white dill sauce, with buttered green beans and steamed rice.</p>
+                    <h2>$18</h2>
                 </div>
             </div>
         </div>
@@ -41,7 +38,7 @@
                         river water, they are typically exposed to toxins like man-made polychlorinated
                         biphenyls (PCBs) that have been found to influence cognitive deficiencies
                         in exposed infants as well as affect hormone metabolism in adult</p>
-                    <h2>$35.50</h2>
+                    <h2>$16</h2>
                 </div>
             </div>
             <div class="medium-6 columns" did="eq3" data-equalizer-watch>
@@ -50,18 +47,15 @@
         </div>
         <div class="row" data-equalizer>
             <div class="medium-6 columns">
-                <img src="/img/tuna.png" alt="Light Canned Tuna" class="featuredImg"  data-equalizer-watch data-swap-img="/img/tuna1.png">
+                <img src="/img/tuna_tartare.jpg" alt="Tuna Tartare" class="featuredImg"  data-equalizer-watch data-swap-img="/img/tuna1.png">
             </div>
             <div class="medium-6 columns">
                 <div class="menu-textbox"  data-equalizer-watch>
-                    <h3>Light Canned Tuna</h3>
-                    <p>Canned tuna is a pantry staple because it’s a quick, cheap source of protein and rich in vitamins
-                        and minerals. It’s also a prime source of one of the two active omega-3 fatty acids: docosahexaenoic
-                        acid (DHA). A study in the Journal of Lipid Research showed that omega-3 fatty acid supplementation
-                        had the profound ability to turn off abdominal fat genes. DHA, specifically, can be
-                        40 to 70 percent more effective than it’s sister omega-3, EPA, at down regulating fat genes in the
-                        abdomen, which can prevent belly fat cells from expanding in size.</p>
-                    <h2>$32.80</h2>
+                    <h3>Tuna Tartare</h3>
+                    <p>The Atlantic bluefin tuna is one of the largest, fastest, and most gorgeously colored of all the world’s fishes. Unfortunately for the species however, bluefin meat also happens to be regarded as surpassingly delicious, and overfishing has driven their numbers to critically low levels. Luckily our providers follow an impeccable set of rules, delivering the most succulent meat possible, with a keen eye to conservation.
+                        <br><br>
+                        Tuna tartare dressed with lime, ginger, tamari and sesame served with crispy toasts, avocado, mango and micro mix salad.</p>
+                    <h2>$14</h2>
                 </div>
             </div>
         </div>
@@ -75,7 +69,7 @@
                         with a calorie-restricted diet, participants who consumed cod I've times a week lost more
                         weight and visceral fat and showed better improvements in their blood pressure than
                         those who ate cod just one or three times per wee</p>
-                    <h2>$39.60</h2>
+                    <h2>$20</h2>
                 </div>
             </div>
             <div class="medium-6 columns">
@@ -97,7 +91,7 @@
                                 Pineapple Juice
                             </div>
                             <div class="price">
-                                $13.50
+                                $6
                             </div>
                         </div>
                     </div>
@@ -110,7 +104,7 @@
                                 Soft Drinks
                             </div>
                             <div class="price">
-                                $11.50
+                                $4
                             </div>
                         </div>
                     </div>
@@ -123,7 +117,7 @@
                                 Carlo Rosee
                             </div>
                             <div class="price">
-                                $17.50
+                                $9
                             </div>
                         </div>
                     </div>
@@ -139,7 +133,7 @@
                                 Grilled Beef
                             </div>
                             <div class="price">
-                                $37.50
+                                $14
                             </div>
                         </div>
                     </div>
@@ -152,7 +146,7 @@
                                 Italian Sausage
                             </div>
                             <div class="price">
-                                $47.50
+                                $19
                             </div>
                         </div>
                     </div>
@@ -165,7 +159,7 @@
                                 Chicken with Tomato
                             </div>
                             <div class="price">
-                                $44.50
+                                $18
                             </div>
                         </div>
                     </div>
