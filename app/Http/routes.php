@@ -25,8 +25,8 @@ Route::get('/booking', function(){
 });
 
 
-Route::get('/otn', function(){
-    return view('otn');
+Route::get('/contact', function(){
+    return view('contact');
 });
 
 

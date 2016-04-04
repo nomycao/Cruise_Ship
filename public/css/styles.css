@@ -12,43 +12,83 @@
 }
 
 body{
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 
-.section.food.first{
-    background: url('//i.imgur.com/fpTIAZ4.png') 50% 50%;
+h1, h2, h3, h4, h5, h6{
+    font-family:'Raleway', sans-serif;
+}
+
+::selection{
+    background: #1A637A;
+}
+
+::-moz-selection{
+    background: #1A637A;
+}
+
+.section{
+    height:100vh;
+    position:relative;
+}
+
+.food.first{
+    background: url('/img/foodbg.png') 50% 50%;
     background-size:cover;
 }
 
-.section.food.second{
-    background: url('//i.imgur.com/sMlWqZU.png') repeat-y;
+.vcenter-container{
+    display:table;
+    height:100%;
+    width:100%;
+}
+
+.text-center{
+    display:table-cell;
+    vertical-align: middle;
+}
+
+.food.second{
+    background: url('/img/darkwood.png') repeat-y;
     background-size: contain;
+    padding-top:7rem;
+    padding-bottom:7rem;
+}
+
+.top-bar .row, .bot-bar .row{
+    width:100%;
+    max-width:100vw;
 }
 
 .top-bar.clear{
-    background: rgba(0,0,0,0.40); /* FF3.6-15 */
+    background: rgba(0,0,0,0);
     z-index:99999;
     width:100%;
     font-size:3rem;
     font-family: stlitiregular, sans-serif;
+    position:absolute;
+    top:0;
 }
 
-.top-bar.clear ul{
-    background-color:transparent;
-}
-
-.top-bar.clear ul li{
-    padding-right:3rem;
-}
-
-.top-bar.clear ul li a{
+.top-bar.clear a{
     color:white;
+    transition: color 300ms;
+}
+
+.top-bar a:hover{
+    color:#1A637A;
+    transition:color 300ms;
+}
+
+.bot-bar{
+    width:100%;
+    height:10vh;
+    position:absolute;
+    bottom:0;
 }
 
 .title{
-    font-family: stlitiregular, sans-serif;
-    color:white;
-    line-height: 90%;
+    line-height: .9;
     text-shadow: 0px 0px 15px rgba(0, 0, 0, 0.5);
 }
 
@@ -62,15 +102,10 @@ body{
     font-size:7rem;
 }
 
-.menu-textbox{
+.menu-textbox {
     background-color: #F1E6C4;
     text-align: center;
-    padding:2rem;
-}
-
-.foodscroll{
-    padding-top:7rem;
-    padding-bottom:7rem;
+    padding: 2rem;
 }
 
 .food.second .columns{
@@ -92,10 +127,10 @@ body{
 .food.third .row .columns .row:nth-child(2){
     padding-left:3rem;
 }
-.food .footer{
+.footer{
     background-image: url('/img/foodFooter.png');
-    background-size: cover;
-    height:50vh;
+    background-size: 100% auto;
+    height:75vh;
 }
 
 #midLogo{
@@ -104,7 +139,7 @@ body{
 }
 
 .home{
-    background-image:url('/img/ocean.jpg');
+    background-image:url('/img/foodbg.png');
     background-size: cover;
     background-position:50% 50%;
 }
@@ -114,21 +149,108 @@ body{
 }
 
 .logo{
-    height:4rem;
-    margin-left:1rem;
+    height:6rem;
+    margin-right:1rem;
 }
 
 .bookingBox{
     background:rgba(0,0,0,0.5);
     padding:1rem 2rem;
-}
-
-.bookingBox label{
     color:white;
     text-align:left;
 }
 
-#map{
-    height:100vh;
-    width:100vw;
+.bookingBox table{
+    color:black;
+}
+
+#smallMenu{
+    margin-top:5rem;
+    color:white;
+    font-family: stlitiregular, sans-serif;
+    font-size: 2.5rem;
+    line-height:1.2;
+}
+
+#smallMenu .icon{
+    height:4rem;
+}
+
+#smallMenu .name{
+    padding-left:1rem;
+}
+
+#smallMenu .price{
+    padding-left:5rem;
+    color: #f4752a;
+}
+
+.item{
+    margin-top:3rem;
+}
+
+.map{
+    background:url('/img/cruiseship_balcony_sunset.png');
+    background-size: cover;
+}
+
+#worldMap{
+    height:75vh;
+}
+
+.social{
+    position:absolute;
+    top:50%;
+    margin-top:-1.25rem;
+}
+
+.social a{
+    margin-left:1rem;
+}
+
+.social a img{
+    width:2.5rem;
+}
+
+.preload{
+    display:none;
+}
+
+.section.contact{
+    background-image:url('/img/ocean.jpg');
+    background-size: cover;
+    background-position:50% 50%;
+}
+
+.title{
+    color:white;
+    font-weight: 200;
+}
+
+.subtitle{
+    color:white;
+    font-size:1.5625rem;
+}
+
+.tickets{
+    background-image:url('/img/nightbg.png');
+    background-size: cover;
+    background-position:50% 50%;
+    background-attachment: fixed;
+    min-height:100vh;
+    padding-top:6rem;
+}
+
+.cursive{
+    font-family:stlitiregular, sans-serif;
+}
+
+.inline-form-elm{
+    width:auto;
+    display:inline-block;
+    vertical-align:middle;
+    margin-right:2rem;
+}
+.inline-form-elm[type="number"]{
+    width:4rem;
 }
